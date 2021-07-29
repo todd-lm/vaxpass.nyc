@@ -1,4 +1,4 @@
-# NYCBikeMap
+# Vaxpass.nyc
 A unified bike map for NYC that combines information from NYC OpenData, NYC DOT, Citi Bike and other publicly available sources.
 
 ![nycbikemap screenshot](https://raw.githubusercontent.com/todd-lm/nycbikemap/master/nycbikemap%20render.png "NYC Bike Map")
